@@ -10,4 +10,5 @@ rem ディレクトリ移動
 cd C:\Git\vm\hello-infra
 
 rem vagrantからUbuntuを起動
+vagrant up
 vagrant teraterm
